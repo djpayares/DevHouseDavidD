@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\bin\Debug\DevHouseDavid.exe.config
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\bin\Debug\DevHouseDavid.exe
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\bin\Debug\DevHouseDavid.pdb
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.Properties.Resources.resources
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.csproj.GenerateResource.cache
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.exe
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.pdb
+C:\Users\david\source\repos\DevHouseDavid\DevHouseDavid\obj\Debug\DevHouseDavid.Form1.resources
